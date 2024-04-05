@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <h1 className='bg-green-600 p-4'>Hello Vite + React!</h1>
+      <h1>Learn About Redux ToolKit</h1>
     </>
   )
 }
